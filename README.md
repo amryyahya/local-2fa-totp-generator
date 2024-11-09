@@ -35,4 +35,4 @@ const otpLine = `
     </div>
 `;
 ```
-demo.png
+`![TOTP Generator Screenshot](demo.png)`
