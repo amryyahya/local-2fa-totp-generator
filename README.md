@@ -35,4 +35,4 @@ const otpLine = `
     </div>
 `;
 ```
-`![TOTP Generator Screenshot](demo.png)`
+![Demo](https://github.com/amryyahya/local-2fa-totp-generator/blob/main/demo.png?raw=true)
